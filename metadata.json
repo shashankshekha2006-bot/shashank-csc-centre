@@ -1,0 +1,6 @@
+{
+  "name": "Shashank CSC Centre",
+  "description": "शशांक सीएससी केंद्र — बिहार एवं केंद्र सरकार के 150+ आधिकारिक पोर्टलों, योजनाओं, कृषि, आधार, पैन व नागरिक सेवाओं का विश्वसनीय डिजिटल डायरेक्टरी पोर्टल।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
